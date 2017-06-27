@@ -1,33 +1,23 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
+			"image": "https://www.poitiers.fr/i23193_Planetarium_Espace_Mendes_France.jpg",
+			"name": "Planetarium",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
-			"name": "Muck Mouth",
+			"image": "http://telem.fr/pub/Presse/PresseLogosEmf/emf-poitiers.jpg",
+			"name": "Logo EMF",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
+			"image": "https://emf.fr/wp-content/uploads/2017/05/Couverture-Curioz%C3%A9t%C3%A9-Poitiers-2017.jpg",
 			"name": "Fishwall",
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
-			"name": "Web Coffe Marilyn",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
-			"name": "Web 3 Jules",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
-			"name": "Web electric3",
+			"image": "https://emf.fr/wp-content/uploads/2016/12/Affiche-A3.jpg",
+			"name": "Affiche-A3",
 			"@type": "Painting"
 		}
 	]
