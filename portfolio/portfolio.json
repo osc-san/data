@@ -2,7 +2,7 @@
 	"painting": [
 		{
 			"image": "https://emf.fr/wp-content/uploads/2016/12/Affiche-A3.jpg",
-			"name": "EMF",
+			"name": "test",
 			"@type": "Painting"
 		},
 		{
